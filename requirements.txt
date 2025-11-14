@@ -1,0 +1,10 @@
+faiss-cpu
+numpy==1.26.4
+opencv-python
+scikit-image
+scikit-learn
+tqdm
+argparse
+h5py
+tensorboardX
+imgaug
